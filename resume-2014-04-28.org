@@ -1,0 +1,118 @@
+* Time-line
+ - Learned rudimentary scripting to make custom maps, etc., in a game
+   I was playing at the time.  2000
+ - Self taught basic unerstanding of electrical engineering and
+   design.  2002--present
+ - Have written several programs in Python.  2006
+ - Learned basic Pascal.  2007
+ - Makes extensive use of Linux as primary OS.  2008--present
+ - Started using BASH for command line work and writing simple
+   scripts.  2008--
+ - Learned C++ on my own for programming the Arduino.  2009
+ - Learned to read and edit Scheme, Perl, and JavaScript.  2011
+ - Self taught programming in Common LISP.  2011
+ - Learned basic Lua programming.  2012
+ - Learned basic R programming.  2013
+ - Learned basic RPL programming for the HP50g graphing calculator.
+   2013
+ - Learned basic Maxima use/programming.  2013--2014
+ - Learned basic Postscript.  2014
+ - Formally learned C++.  2014
+
+* list of my skills
+ - Basic understanding of electrical engineering and design
+ - I learned to program by myself when I was 13-14 years old
+ - When I was about 7 I was learning to do rudimentary
+   programing/scripting, in the context of playing a video game, to
+   make my own maps, etc.
+ - When I was 9 I made a trebuchete with my dad.
+ - I have used Linux as my primary, and almost my exclusive, operating
+   system for the past 6 or 7 years.
+ - I'm quite comfortable with programming in Common LISP, Emacs LISP,
+   Python, and C++.
+ - I'm at least somewhat familiar with C, R, Maxima, BASH, BASIC, Lua, Scheme,
+   RPL, Perl, Pascal, JavaScript, and Postscript.
+
+* "new" list of interests
+ - Software engineering
+ - Electrical engineering
+ - Particle physics
+ - Astrophysics
+ - Chemistry
+ - Materials science
+ - Mechanical engineering
+
+* "old" list of my interests
+ - As a kid I dreamed of working at JPL.
+ - All technology
+   - Electrical engineering.
+   - Mechanical engineering.
+   - Software and computer engineering.
+ - Literature, I like to read quite often.
+ - While growing up I would ask for electronics, chemistry, and
+   general science kits for my birthday instead of toys.
+ - I often enjoy doing recreational mathematics.
+ - While growing up I often dreamed of being an inventor.
+
+* stuff better suited for a cover letter
+ \item As a kid, dreamed of working an JPL. \hfill 2000--
+ \item As a kid, asked for electronics, chemistry, and general science
+       kits for my birthdays.
+ \item As a kid, often dreamed of being an inventor.
+
+* Scraps from coverletter
+
+
+
+% Having attended many JPL Open Houses, as a child I dreamed of someday
+% working at JPL, and entering the JPLUS program will help me get closer
+% to that childhood dream.
+
+% Attending the JPL Open Houses as a child, I greatly enjoyed talking to
+% the researchers about physics and the technology developed at JPL.  In
+% particular I remember talking to the researchers about ion propulsion
+% engines and micro thrusters, as well as seeing the fascinating
+% facilities an JPL for machinging parts, fabricating integrated circuits,
+% and the computer labs.  Thanks to those visits, I was inspired to study
+% physics and engineering in my own time for the rest of my life.  Indeed,
+% I found the JPL Open Houses so fascinating as a child that my very
+% patient parents would get bored and/or inpatient from waiting for me
+% because I would get so engrossed in conversations with the scientists at
+% JPL.  One story my parents like to share of this is a time I was
+% engrossed in a coversation with a researcher at JPL about how gravity
+% really works, not just its properties.
+
+% On the more formal academic side of things, I currently maintain a GPA
+% of 3.8 out of 4.0 over a total of 30 units of college credit, with 4
+% more units that I am currently taking.  I am currently pursuing an
+% associates degree in computer science and hope to later transfer to
+% Stanford University; however, I recognize the unlikelihood of that and
+% will also be applying to UC Irvine, UC Berkeley, Caltech, and Calpoly.
+
+
+
+% I am excited about the possibility an internship at JPL.  As a child, I
+% often dreamed of working at JPL, and as such entry into the JPLUS
+% program will help me get closer to that childhood dream.
+
+% I have attended many JPL Open Houses and always enjoyed seeing the
+% exhibits there and talking to the people presenting at the Open Houses
+% about physics and other scientific topics.  Another thing I really
+% enjoyed about those visits was seeing the amazing technology on display
+% at the JPL Open Houses.  Some examples I found interesting where the ion
+% propulsion engine as micro-thruster intriguing.  In addition, I always
+% liked seeing the labs at JPL, particularly the labs devoted to
+% integrated circuit fabrication, tool shops for machining parts, and the
+% computer labs.  As a young kid my parents would also get bored from
+% waiting while I was greatly engaged in a conversation with the
+% presenters/staff at the JPL Open Houses.
+
+% I have long had a deep desire to understand everything around me and
+% since an early age have devoted much of my time researching new things
+% and trying to absorb as much knowledge as possible to better be able to
+% understand the world around me.  I have read many book on a wide variety
+% of subjects, some of which are The Universe In a Nutshell by Stephen
+% Hawking, some books on mineralogy, some other books on mathematics, and
+% --- less relevantly --- over four books about knots alone; and that is
+% without even getting into all of the books that I have read for reasons
+% other than just for fun.
