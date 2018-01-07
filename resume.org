@@ -61,9 +61,7 @@
  \item As a kid, often dreamed of being an inventor.
 
 * Scraps from coverletter
-
-
-
+#+BEGIN_EXAMPLE
 % Having attended many JPL Open Houses, as a child I dreamed of someday
 % working at JPL, and entering the JPLUS program will help me get closer
 % to that childhood dream.
@@ -116,3 +114,4 @@
 % --- less relevantly --- over four books about knots alone; and that is
 % without even getting into all of the books that I have read for reasons
 % other than just for fun.
+#+END_EXAMPLE
