@@ -1,20 +1,16 @@
 * Time-line
- - Learned rudimentary scripting to make custom maps, etc., in a game
-   I was playing at the time.  2000
- - Self taught basic unerstanding of electrical engineering and
-   design.  2002--present
+ - Learned rudimentary scripting to make custom maps, etc., in a game I was playing at the time.  2000
+ - Self taught basic understanding of electrical engineering and design.  2002--present
  - Have written several programs in Python.  2006
  - Learned basic Pascal.  2007
  - Makes extensive use of Linux as primary OS.  2008--present
- - Started using BASH for command line work and writing simple
-   scripts.  2008--
+ - Started using BASH for command line work and writing simple scripts.  2008--
  - Learned C++ on my own for programming the Arduino.  2009
  - Learned to read and edit Scheme, Perl, and JavaScript.  2011
  - Self taught programming in Common LISP.  2011
  - Learned basic Lua programming.  2012
  - Learned basic R programming.  2013
- - Learned basic RPL programming for the HP50g graphing calculator.
-   2013
+ - Learned basic RPL programming for the HP50g graphing calculator.  2013
  - Learned basic Maxima use/programming.  2013--2014
  - Learned basic Postscript.  2014
  - Formally learned C++.  2014
@@ -22,16 +18,11 @@
 * list of my skills
  - Basic understanding of electrical engineering and design
  - I learned to program by myself when I was 13-14 years old
- - When I was about 7 I was learning to do rudimentary
-   programing/scripting, in the context of playing a video game, to
-   make my own maps, etc.
+ - When I was about 7 I was learning to do rudimentary programming/scripting, in the context of playing a video game, to make my own maps, etc.
  - When I was 9 I made a trebuchete with my dad.
- - I have used Linux as my primary, and almost my exclusive, operating
-   system for the past 6 or 7 years.
- - I'm quite comfortable with programming in Common LISP, Emacs LISP,
-   Python, and C++.
- - I'm at least somewhat familiar with C, R, Maxima, BASH, BASIC, Lua, Scheme,
-   RPL, Perl, Pascal, JavaScript, and Postscript.
+ - I have used Linux as my primary, and almost my exclusive, operating system for the past 6 or 7 years.
+ - I'm quite comfortable programming in Common LISP, Emacs LISP, Python, and C++.
+ - I'm at least somewhat familiar with C, R, Maxima, BASH, BASIC, Lua, Scheme, RPL, Perl, Pascal, JavaScript, and Postscript.
 
 * "new" list of interests
  - Software engineering
@@ -49,7 +40,6 @@
    - Mechanical engineering.
    - Software and computer engineering.
  - Literature, I like to read quite often.
- - While growing up I would ask for electronics, chemistry, and
-   general science kits for my birthday instead of toys.
+ - While growing up I would ask for electronics, chemistry, and general science kits for my birthday instead of toys.
  - I often enjoy doing recreational mathematics.
  - While growing up I often dreamed of being an inventor.
